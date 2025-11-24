@@ -1,0 +1,33 @@
+# --- Rác hệ thống ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- AWS (SỐNG CÒN - CẤM XÓA) ---
+.aws/
+*.aws
+credentials
+config
+
+# --- Keys & Mật khẩu (CẤM PUSH) ---
+*.pem
+*.key
+*.env
+*.json
+secrets.*
+id_rsa
+id_rsa.pub
+
+# --- Docker & Terraform ---
+*.dockerignore
+docker-compose.override.yml
+.terraform/
+.terraform/plugins/
+*.tfstate
+*.tfstate.backup
+
+# --- Logs & Khác ---
+*.log
+node_modules/
+venv/
