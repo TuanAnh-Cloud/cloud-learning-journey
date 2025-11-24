@@ -1,7 +1,7 @@
 # 📂 HỒ SƠ CHIẾN LƯỢC: TỪ ZERO ĐẾN CLOUD SECURITY ARCHITECT
 
 * **Chủ sở hữu:** [Tên Của Bạn]
-* **Ngày bắt đầu:** 20/11/2025
+* **Ngày bắt đầu:** 24/11/2025
 * **Mục tiêu:** Thực tập (05/2026) -> Cloud Security Architect tại Big Tech.
 * **Cam kết thời gian:** 15 - 20 giờ/tuần.
 
@@ -43,7 +43,7 @@
 
 ## PHẦN 3: NĂM NHẤT - SPRINT THỰC TẬP (11/2025 - 11/2026)
 
-### 📍 Giai đoạn 1.1: Linux, Git & Tư duy Lập trình (20/11/2025 – 10/01/2026)
+### 📍 Giai đoạn 1.1: Linux, Git & Tư duy Lập trình (24/11/2025 – 10/01/2026)
 
 * [ ] **Setup Môi trường:**
     * 🛠️ *Cứ làm thôi:* Cài VS Code, Git, tạo Repo, copy file `.gitignore`. Bật AWS Billing Alarm ($10).
