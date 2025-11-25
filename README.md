@@ -47,8 +47,6 @@
 
 * [X] **Setup Môi trường:**
     * 🛠️ *Cứ làm thôi:* Cài VS Code, Git, tạo Repo, copy file `.gitignore`. Bật AWS Billing Alarm ($10).
-> **Note:** Chưa tạo tài khoản AWS, còn những mục khác thì hoàn thành hết rồi.
-> **Note:**  Đã tạo xong AWS
 * [ ] **Git Mastery:**
     * 🛠️ *Cứ làm thôi:* Học thuộc `git init`, `add`, `commit`, `push`, `branch`.
     * 🧠 *Phải hiểu:* Tại sao không được push file nhạy cảm (`.env`) lên Git?
