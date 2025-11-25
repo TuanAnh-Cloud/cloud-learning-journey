@@ -45,9 +45,10 @@
 
 ### 📍 Giai đoạn 1.1: Linux, Git & Tư duy Lập trình (24/11/2025 – 10/01/2026)
 
-* [ ] **Setup Môi trường:**
+* [X] **Setup Môi trường:**
     * 🛠️ *Cứ làm thôi:* Cài VS Code, Git, tạo Repo, copy file `.gitignore`. Bật AWS Billing Alarm ($10).
 > **Note:** Chưa tạo tài khoản AWS, còn những mục khác thì hoàn thành hết rồi.
+> **Note:**  Đã tạo xong AWS
 * [ ] **Git Mastery:**
     * 🛠️ *Cứ làm thôi:* Học thuộc `git init`, `add`, `commit`, `push`, `branch`.
     * 🧠 *Phải hiểu:* Tại sao không được push file nhạy cảm (`.env`) lên Git?
