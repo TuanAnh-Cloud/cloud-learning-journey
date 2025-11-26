@@ -1,9 +1,16 @@
 # 📂 HỒ SƠ CHIẾN LƯỢC: TỪ ZERO ĐẾN CLOUD SECURITY ARCHITECT
 
-* **Chủ sở hữu:** [Tên Của Bạn]
+* **Chủ sở hữu:** Dương Tuấn Anh
 * **Ngày bắt đầu:** 24/11/2025
 * **Mục tiêu:** Thực tập (05/2026) -> Cloud Security Architect tại Big Tech.
 * **Cam kết thời gian:** 15 - 20 giờ/tuần.
+
+---
+
+## 🚦 QUY ƯỚC TRẠNG THÁI (LEGEND)
+- [ ] Bài chưa học (Not Started)
+- [x] 🚧 **Bài đang học dở (In Progress)**
+- [x] ✅ 🎉 **~~Bài đã hoàn thành (Done)~~**
 
 ---
 
@@ -47,12 +54,16 @@
 
 - [x] ✅ 🎉 **~~Setup Môi trường~~** 
     * 🛠️ *Cứ làm thôi:* Cài VS Code, Git, tạo Repo, copy file `.gitignore`. Bật AWS Billing Alarm ($10).
-* [ ] **Git Mastery:**
+* [x] 🚧 **Git Mastery:** (Đang học dở, chưa xong hẳn)
     * 🛠️ *Cứ làm thôi:* Học thuộc `git init`, `add`, `commit`, `push`, `branch`.
+    > **Note:** Đã thực hành sơ qua add, commit, push.
     * 🧠 *Phải hiểu:* Tại sao không được push file nhạy cảm (`.env`) lên Git?
-* [ ] **Linux File System & Permissions:**
+    > **Note:** Chưa tìm hiểu được do nay bận quá, mai sẽ bù phần này.
+* [x] 🚧 **Linux File System & Permissions:** (Đang học dở, chưa xong hẳn)
     * 🛠️ *Cứ làm thôi:* Gõ lệnh `ls`, `cd`, `mkdir`, `rm`, `chmod`, `chown`.
+    > **Note:** Đã thực hành sơ qua ls, mkdir, cd, whoami.
     * 🧠 *Phải hiểu:* Cấu trúc thư mục `/etc`, `/var`. Tại sao `chmod 777` là nguy hiểm?
+    > **Note:** Hẹn ngày mai tìm hiểu kỹ phần này.
 * [ ] **Linux Security Hardening:**
     * 🛠️ *Cứ làm thôi:* Copy lệnh tạo SSH Key (`ssh-keygen`), tắt Root Login.
     * 🧠 *Phải hiểu:* Public Key và Private Key khác nhau chỗ nào?
