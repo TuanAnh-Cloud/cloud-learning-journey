@@ -81,15 +81,15 @@
 >
 >
 >
->       Công thức: 7 = 4 (Đọc) + 2 (Ghi) + 1 (Chạy)
+>    Công thức: 7 = 4 (Đọc) + 2 (Ghi) + 1 (Chạy)
 >
->     3 con số 7 (7-7-7) nghĩa là:
+>   3 con số 7 (7-7-7) nghĩa là:
 >
->   Chủ nhà (Bro): Full quyền.
+>  Chủ nhà (Bro): Full quyền.
 >
->   Nhóm bạn (Group): Full quyền.
+>  Nhóm bạn (Group): Full quyền.
 >
->   Người lạ (Everyone): FULL quyền.
+>  Người lạ (Everyone): FULL quyền.
 >
 >
 >
