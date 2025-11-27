@@ -54,8 +54,8 @@
 
 - [x] ✅ 🎉 **~~Setup Môi trường~~** 
     * 🛠️ *Cứ làm thôi:* Cài VS Code, Git, tạo Repo, copy file `.gitignore`. Bật AWS Billing Alarm ($10).
-    > [!NOTE]
-    > **Đã thao tác** Đã thao tác hết vào hôm 24 rồi nay mới update thêm vào đây
+        > [!NOTE]
+        > Đã thao tác hết vào hôm 24 rồi nay mới update thêm vào đây
 * [x] ✅ 🎉 **~~Git Mastery:~~**
     * 🛠️ *Cứ làm thôi:* Học thuộc `git init`, `add`, `commit`, `push`, `branch`.
     > [!NOTE]
