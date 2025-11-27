@@ -61,6 +61,8 @@
 > [!NOTE]
 > Đã thực hành sơ qua `add`, `commit`, `push`.
 >
+>
+>
 >  Thực hành khá là nhiều với câu lệnh `add`, `commit` và `push` rồi
     * 🧠 *Phải hiểu:* Tại sao không được push file nhạy cảm (`.env`) lên Git?
 > [!NOTE]
@@ -70,14 +72,18 @@
 > [!NOTE]
 >  Đã thực hành sơ qua ls, mkdir, cd, whoami.
 >
+>
+>
 >  Đã thực hành tạo file, xóa file, chmod 600 và chuyển quyền sở hữu cho root
     * 🧠 *Phải hiểu:* Cấu trúc thư mục `/etc`, `/var`. Tại sao `chmod 777` là nguy hiểm?
 > [!NOTE]
 >  Đã tìm hiểu và biết được nếu tạo lệnh `chmod 777` thì khác gì mình mở cửa nhà cho người ta vào muốn làm gì thì làm, muốn đập gì thì đập **777** này chỉ dùng để test thôi còn `chmod 600` là khóa quyền chỉ cho bản thân đọc, ghi, xóa thôi.
 >
->           Công thức: 7 = 4 (Đọc) + 2 (Ghi) + 1 (Chạy)
 >
->       3 con số 7 (7-7-7) nghĩa là:
+>
+>       Công thức: 7 = 4 (Đọc) + 2 (Ghi) + 1 (Chạy)
+>
+>     3 con số 7 (7-7-7) nghĩa là:
 >
 >   Chủ nhà (Bro): Full quyền.
 >
@@ -86,9 +92,14 @@
 >   Người lạ (Everyone): FULL quyền.
 >
 >
+>
 >  Hơn hết Hacker (hoặc một user vớ vẩn nào đó) có thể chèn mã độc vào file của mình, hoặc xóa bay file đó mà không cần mật khẩu.
 >
+>
+>
 >  `/etc``(Editable Text Configuration-Cấu hình văn bản có thể chỉnh sửa)`: nó giống như `Control Panel` hoặc `Settings` ở Windows vậy nó chứa toàn bộ file cấu hình hệ thống ví dụ như: danh sách user, cấu hình mạng, cấu hình Web Server.... Nó khá là quan trọng bởi vì muốn đổi port web, muốn chặn IP... mình phải chui vào đây sửa file.
+>
+>
 >
 >  `/var` `(Variable - Biến đổi)`: có thể ví như `cuốn nhật ký` hoặc `Kho chứa đồ linh tinh` nó chứa những file thay đổi liên tục về kích thước. Quan trọng nhất là `Log Files (/var/log)`bởi vì nếu server bị lỗi hoặc bị hack, mình phải chui vào `/var/log` để đọc nhật ký xem chuyện gì đã xảy ra.
 * [ ] **Linux Security Hardening:**
