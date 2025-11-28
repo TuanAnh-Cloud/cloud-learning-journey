@@ -98,7 +98,7 @@
 > [!NOTE]
 > * **Public Key (.pub):** Là cái **Ổ KHÓA**. Có thể copy vứt lên mọi server, chia sẻ cho nhiều người vì ổ khóa không chwadwx liệu liên quan đến bảo mật
 > * **Private Key:** Là cái **CHÌA KHÓA**. Chỉ có **DUY NHẤT MỘT CÁI**, phải giữ bí mật trong máy mình để mở ổ khóa kia nếu chia sẻ thì sẽ không còn riêng tư bảo mật nữa
-* [X] ✅ 🎉 **~~~~Automation Scripting:~~**
+* [X] ✅ 🎉 **~~Automation Scripting:~~**
     * 🛠️ *Cứ làm thôi:* Copy mẫu script backup (`tar`, `cron`).
 > [!NOTE]
 > `tar` tương tự như file `.rar` hay `.zip` (file nén) giống windows
