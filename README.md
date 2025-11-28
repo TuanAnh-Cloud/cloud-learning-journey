@@ -109,10 +109,15 @@
 > * Là công cụ để **lên lịch chạy tự động** (Scheduler) trong Linux.
 > * **Cú pháp 5 sao:** `* * * * * [Lệnh]`
 > * **Thứ tự từ trái qua phải:**
+>
 >   `1`.  Phút (0-59)
+>
 >   `2`.  Giờ (0-23)
+>
 >   `3`.  Ngày trong tháng (1-31)
+>
 >   `4`.  Tháng (1-12)
+>
 >   `5`.  Thứ trong tuần (0-6, CN là 0)
 >
 > **Ví dụ thực tế (Thay sao bằng số):**
