@@ -90,12 +90,48 @@
 >  `/etc``(Editable Text Configuration-Cấu hình văn bản có thể chỉnh sửa)`: nó giống như `Control Panel` hoặc `Settings` ở Windows vậy nó chứa toàn bộ file cấu hình hệ thống ví dụ như: danh sách user, cấu hình mạng, cấu hình Web Server.... Nó khá là quan trọng bởi vì muốn đổi port web, muốn chặn IP... mình phải chui vào đây sửa file.
 >
 >  `/var` `(Variable - Biến đổi)`: có thể ví như `cuốn nhật ký` hoặc `Kho chứa đồ linh tinh` nó chứa những file thay đổi liên tục về kích thước. Quan trọng nhất là `Log Files (/var/log)`bởi vì nếu server bị lỗi hoặc bị hack, mình phải chui vào `/var/log` để đọc nhật ký xem chuyện gì đã xảy ra.
-* [ ] **Linux Security Hardening:**
+* [X] ✅ 🎉 **Linux Security Hardening:**
     * 🛠️ *Cứ làm thôi:* Copy lệnh tạo SSH Key (`ssh-keygen`), tắt Root Login.
+> [!NOTE]
+> `ssh-keygen` sẽ tạo ra cặp `Public Key`(ổ khóa) và `Private Key`(chìa khóa) để bảo mật tốt hơn
     * 🧠 *Phải hiểu:* Public Key và Private Key khác nhau chỗ nào?
-* [ ] **Automation Scripting:**
+> [!NOTE]
+> * **Public Key (.pub):** Là cái **Ổ KHÓA**. Có thể copy vứt lên mọi server, chia sẻ cho nhiều người vì ổ khóa không chwadwx liệu liên quan đến bảo mật
+> * **Private Key:** Là cái **CHÌA KHÓA**. Chỉ có **DUY NHẤT MỘT CÁI**, phải giữ bí mật trong máy mình để mở ổ khóa kia nếu chia sẻ thì sẽ không còn riêng tư bảo mật nữa
+* [X] ✅ 🎉 **Automation Scripting:**
     * 🛠️ *Cứ làm thôi:* Copy mẫu script backup (`tar`, `cron`).
+> [!NOTE]
+> `tar` tương tự như file `.rar` hay `.zip` (file nén) giống windows
+> `cron` có thể hiểu nó là một con robot tự động hóa giúp mình làm những công việc vào khung giờ mình cài đặt
     * 🧠 *Phải hiểu:* Cronjob hoạt động ra sao?
+> [!NOTE]
+> **Đã hiểu Cron (Cronjob):**
+> * Là công cụ để **lên lịch chạy tự động** (Scheduler) trong Linux.
+> * **Cú pháp 5 sao:** `* * * * * [Lệnh]`
+> * **Thứ tự từ trái qua phải:**
+>   1.  Phút (0-59)
+>   2.  Giờ (0-23)
+>   3.  Ngày trong tháng (1-31)
+>   4.  Tháng (1-12)
+>   5.  Thứ trong tuần (0-6, CN là 0)
+>
+> **Ví dụ thực tế (Thay sao bằng số):**
+> * `* * * * *` : Chạy **mỗi phút**. (1 phút/lần).
+> * `30 * * * *` : Chạy vào **phút thứ 30** của mỗi giờ. (VD: 1:30, 2:30... -> 1 tiếng/lần).
+> * `30 8 * * *` : Chạy vào **08:30 sáng** hàng ngày. (1 ngày/lần).
+> * `30 8 1 * *` : Chạy vào 08:30 sáng ngày **mùng 1** hàng tháng. (1 tháng/lần).
+> * `30 8 * * 1` : Chạy vào 08:30 sáng ngày **Thứ Hai** hàng tuần. (1 tuần/lần).
+> * `0 0 1 1 *` : Chạy vào khắc giao thừa (00:00 ngày 01/01) hàng năm. (1 năm/lần).
+>> **💡 Quy tắc "Sao" & Trường hợp "Cấm kỵ":**
+> * **Quy tắc `*`:** Chỗ nào có dấu sao, chỗ đó là **"Sao cũng được"** (Mọi phút, mọi giờ, mọi ngày...).
+> * **Quy tắc Số:** Chỗ nào có số, thời gian thực tế phải **TRÙNG KHỚP** với số đó mới chạy.
+>
+> **⚠️ Trường hợp ĐẶC BIỆT (Hại não - Hạn chế dùng):**
+> * `1 1 1 1 1` : (Phút 1, Giờ 1, Ngày 1, Tháng 1, Thứ 2).
+> * **Nó sẽ chạy khi nào?** Chạy lúc 01:01 sáng trong tháng 1.
+> * **Điều kiện kích hoạt:** NẾU hôm đó là ngày mùng 1 **HOẶC** hôm đó là ngày Thứ Hai.
+> * **Tại sao "Cấm kỵ"?** Vì nó chạy lung tung (Vừa chạy mùng 1, vừa chạy tất cả các ngày Thứ 2 trong tháng), rất khó kiểm soát.
+>
 * [ ] **MANDATORY LAB: Manual LAMP Stack** (Bài Lớn - Chia 2 tối):
     * 🛠️ *Cứ làm thôi:* Copy lệnh cài Apache, MySQL, PHP từng dòng một.
     * 🧠 *Phải hiểu:* File cấu hình Apache nằm ở đâu? Làm sao để start/stop service?
