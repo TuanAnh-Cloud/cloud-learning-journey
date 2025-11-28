@@ -90,7 +90,7 @@
 >  `/etc``(Editable Text Configuration-Cấu hình văn bản có thể chỉnh sửa)`: nó giống như `Control Panel` hoặc `Settings` ở Windows vậy nó chứa toàn bộ file cấu hình hệ thống ví dụ như: danh sách user, cấu hình mạng, cấu hình Web Server.... Nó khá là quan trọng bởi vì muốn đổi port web, muốn chặn IP... mình phải chui vào đây sửa file.
 >
 >  `/var` `(Variable - Biến đổi)`: có thể ví như `cuốn nhật ký` hoặc `Kho chứa đồ linh tinh` nó chứa những file thay đổi liên tục về kích thước. Quan trọng nhất là `Log Files (/var/log)`bởi vì nếu server bị lỗi hoặc bị hack, mình phải chui vào `/var/log` để đọc nhật ký xem chuyện gì đã xảy ra.
-* [X] ✅ 🎉 **Linux Security Hardening:**
+* [X] ✅ 🎉 **~~Linux Security Hardening:~~**
     * 🛠️ *Cứ làm thôi:* Copy lệnh tạo SSH Key (`ssh-keygen`), tắt Root Login.
 > [!NOTE]
 > `ssh-keygen` sẽ tạo ra cặp `Public Key`(ổ khóa) và `Private Key`(chìa khóa) để bảo mật tốt hơn
@@ -98,7 +98,7 @@
 > [!NOTE]
 > * **Public Key (.pub):** Là cái **Ổ KHÓA**. Có thể copy vứt lên mọi server, chia sẻ cho nhiều người vì ổ khóa không chwadwx liệu liên quan đến bảo mật
 > * **Private Key:** Là cái **CHÌA KHÓA**. Chỉ có **DUY NHẤT MỘT CÁI**, phải giữ bí mật trong máy mình để mở ổ khóa kia nếu chia sẻ thì sẽ không còn riêng tư bảo mật nữa
-* [X] ✅ 🎉 **Automation Scripting:**
+* [X] ✅ 🎉 **~~~~Automation Scripting:~~**
     * 🛠️ *Cứ làm thôi:* Copy mẫu script backup (`tar`, `cron`).
 > [!NOTE]
 > `tar` tương tự như file `.rar` hay `.zip` (file nén) giống windows
