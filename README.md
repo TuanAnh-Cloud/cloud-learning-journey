@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **Status Update (29/11):** Hôm nay gặp sự cố phần cứng (Fix Laptop) nên dời lịch Review sang buổi sau.
+> *Trạng thái: Pending.*
+
+
+
+
+
 # 📂 HỒ SƠ CHIẾN LƯỢC: TỪ ZERO ĐẾN CLOUD SECURITY ARCHITECT
 
 * **Chủ sở hữu:** Dương Tuấn Anh
