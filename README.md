@@ -1,6 +1,6 @@
 > [!IMPORTANT]
-> **Status Update (29/11):** Hôm nay gặp sự cố phần cứng (Fix Laptop) nên dời lịch Review sang buổi sau.
-> *Trạng thái: Pending.*
+> **Status Update (30/11):** Hôm nay đáng lẽ là ngày nghỉ k làm gì nhưng hôm qua đã gặp sự cố với máy rồi nay review bù đã review xong tự thưởng một hôm ngủ sớm thôi. Let go!
+> *Trạng thái: Done*
 
 
 
