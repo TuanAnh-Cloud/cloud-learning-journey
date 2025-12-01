@@ -1,6 +1,6 @@
 > [!IMPORTANT]
-> **Status Update (30/11):** Hôm nay đáng lẽ là ngày nghỉ k làm gì nhưng hôm qua đã gặp sự cố với máy rồi nay review bù đã review xong tự thưởng một hôm ngủ sớm thôi. Let go!
-> *Trạng thái: Done*
+> **Status Update (30/11):** Hôm nay có một bài tập về nahf khá là nhiều chi tiết cần chú tâm chỉnh sửa nên nay không thực hành hay tự học được
+> *Trạng thái: Pending*
 
 
 
