@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **Status Update (30/11):** Hôm nay có một bài tập về nhà khá là nhiều chi tiết cần chú tâm chỉnh sửa nên nay không thực hành hay tự học được
+> **Status Update (2/12):** Hôm nay tiếp tục có một bài tập về nhà khá là chi tiết cần chú tâm chỉnh sửa nên nay không thực hành hay tự học được
 > *Trạng thái: Pending*
 
 
