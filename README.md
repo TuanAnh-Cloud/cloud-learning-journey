@@ -147,11 +147,8 @@
     * 🛠️ *Cứ làm thôi:* Copy lệnh cài Apache, MySQL, PHP từng dòng một.
 > [!NOTE]
 > (03/12): Đã cài xong Apache Web Server. Đã deploy thành công trang CV HTML đầu tay lên Localhost.
->
 > Apache: Đã chạy.
-
 > Web CV: Đã lên hình, không lỗi font.
-
 > Kỹ năng: Đã biết SSH, Nano, HTML cơ bản.
     * 🧠 *Phải hiểu:* File cấu hình Apache nằm ở đâu? Làm sao để start/stop service?
 * [ ] **Project 0: CV tĩnh trên S3:**
