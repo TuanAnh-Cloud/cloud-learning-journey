@@ -68,6 +68,7 @@
 > Đã thực hành sơ qua `add`, `commit`, `push`.
 >
 >  Thực hành khá là nhiều với câu lệnh `add`, `commit` và `push` rồi
+>
     * 🧠 *Phải hiểu:* Tại sao không được push file nhạy cảm (`.env`) lên Git?
 > [!NOTE]
 >  Có thể hiểu `.env`là két sắt thông tin của bản thân nếu public thì khác nào show hết bí mật mình muốn giấu lên mạng
@@ -77,6 +78,7 @@
 >  Đã thực hành sơ qua ls, mkdir, cd, whoami.
 >
 >  Đã thực hành tạo file, xóa file, chmod 600 và chuyển quyền sở hữu cho root
+>
     * 🧠 *Phải hiểu:* Cấu trúc thư mục `/etc`, `/var`. Tại sao `chmod 777` là nguy hiểm?
 > [!NOTE]
 >  Đã tìm hiểu và biết được nếu tạo lệnh `chmod 777` thì khác gì mình mở cửa nhà cho người ta vào muốn làm gì thì làm, muốn đập gì thì đập **777** này chỉ dùng để test thôi còn `chmod 600` là khóa quyền chỉ cho bản thân đọc, ghi, xóa thôi.
@@ -100,6 +102,7 @@
     * 🛠️ *Cứ làm thôi:* Copy lệnh tạo SSH Key (`ssh-keygen`), tắt Root Login.
 > [!NOTE]
 > `ssh-keygen` sẽ tạo ra cặp `Public Key`(ổ khóa) và `Private Key`(chìa khóa) để bảo mật tốt hơn
+>
     * 🧠 *Phải hiểu:* Public Key và Private Key khác nhau chỗ nào?
 > [!NOTE]
 > * **Public Key (.pub):** Là cái **Ổ KHÓA**. Có thể copy vứt lên mọi server, chia sẻ cho nhiều người vì ổ khóa không chwadwx liệu liên quan đến bảo mật
@@ -109,6 +112,7 @@
 > [!NOTE]
 > `tar` tương tự như file `.rar` hay `.zip` (file nén) giống windows
 > `cron` có thể hiểu nó là một con robot tự động hóa giúp mình làm những công việc vào khung giờ mình cài đặt
+>
     * 🧠 *Phải hiểu:* Cronjob hoạt động ra sao?
 > [!NOTE]
 > **Đã hiểu Cron (Cronjob):**
@@ -153,6 +157,7 @@
 > Web CV: Đã lên hình, không lỗi font.
 >
 > Kỹ năng: Đã biết SSH, Nano, HTML cơ bản.
+>
     * 🧠 *Phải hiểu:* File cấu hình Apache nằm ở đâu? Làm sao để start/stop service?
 * [ ] **Project 0: CV tĩnh trên S3:**
     * 🛠️ *Cứ làm thôi:* Upload file HTML lên S3, bật Static Hosting.
@@ -163,29 +168,36 @@
     * 🧠 *Phải hiểu (SỐNG CÒN):* Nhìn vào `/24`, `/16` biết ngay có bao nhiêu IP. Phân biệt Public vs Private IP.
 * [ ] **VLAN & ACL (Packet Tracer - Max 2 tuần):**
     * 🛠️ *Cứ làm thôi:* Cấu hình Switch/Router Cisco theo bài mẫu.
+>
     * 🧠 *Phải hiểu:* Tại sao phải chia VLAN? Tại sao cần chặn traffic?
 * [ ] **AWS VPC (Virtual Private Cloud - Bài Lớn):**
     * 🛠️ *Cứ làm thôi:* Bấm Console tạo VPC, Subnet, IGW.
+>
     * 🧠 *Phải hiểu (SỐNG CÒN):* Luồng đi của gói tin. Tại sao Private Subnet cần NAT Gateway mới ra được Net?
 * [ ] **Terraform Basic:**
     * 🛠️ *Cứ làm thôi:* Cú pháp HCL (`resource "aws_vpc"`). Copy docs là ra.
+>
     * 🧠 *Phải hiểu:* **State File** là gì? Tại sao mất file này là mất toàn bộ hạ tầng?
 
 ### 📍 Giai đoạn 1.3: Dự án lớn & Nền tảng Ứng dụng (01/03 – 15/04)
 
 * [ ] **Database & SQL:**
     * 🛠️ *Cứ làm thôi:* Gõ lệnh `SELECT`, `INSERT`, `UPDATE`, `JOIN`.
+>
     * 🧠 *Phải hiểu:* Quan hệ 1-Nhiều là gì? Khóa chính (PK) vs Khóa ngoại (FK).
 * [ ] **Mật mã học cơ bản (Cryptography):**
     * 🧠 *Phải hiểu:* Hashing khác Encryption chỗ nào? HTTPS bắt tay (Handshake) ra sao?
 * [ ] **AWS Security (IAM & SG):**
     * 🛠️ *Cứ làm thôi:* Tạo User, Policy. Tạo Security Group mở port 80/22.
+>
     * 🧠 *Phải hiểu:* Nguyên tắc Quyền tối thiểu. Stateful (SG) khác gì Stateless (NACL)?
 * [ ] **Docker Basics:**
     * 🛠️ *Cứ làm thôi:* Copy mẫu `Dockerfile`, lệnh `docker build`, `docker run`.
+>
     * 🧠 *Phải hiểu:* Docker Container khác gì Máy ảo (VM)?
 * [ ] **PROJECT 1: 3-TIER ARCHITECTURE (Dự án Đinh - 2 Tuần):**
     * 🛠️ *Cứ làm thôi:* Deploy Web-App-DB thủ công. Viết code Terraform.
+>
     * 🧠 *Phải hiểu:* Web gọi App qua port nào? App gọi DB qua port nào?
 * [ ] **CI/CD Basic:**
     * 🛠️ *Cứ làm thôi:* Config GitHub Actions để build Docker.
