@@ -147,16 +147,10 @@
 > * **Điều kiện kích hoạt:** NẾU hôm đó là ngày mùng 1 **HOẶC** hôm đó là ngày Thứ Hai.
 > * **Tại sao "Cấm kỵ"?** Vì nó chạy lung tung (Vừa chạy mùng 1, vừa chạy tất cả các ngày Thứ 2 trong tháng), rất khó kiểm soát.
 >
-* [ ] 🚧 **MANDATORY LAB: Manual LAMP Stack** (Bài Lớn - Chia 2 tối):
+* [X] ✅ 🎉 **MANDATORY LAB: Manual LAMP Stack** (Bài Lớn - Chia 2 tối):
     * 🛠️ *Cứ làm thôi:* Copy lệnh cài Apache, MySQL, PHP từng dòng một.
 > [!NOTE]
-> (03/12): Đã cài xong Apache Web Server. Đã deploy thành công trang CV HTML đầu tay lên Localhost.
->
-> Apache: Đã chạy.
->
-> Web CV: Đã lên hình, không lỗi font.
->
-> Kỹ năng: Đã biết SSH, Nano, HTML cơ bản.
+> Hoàn thành Full LAMP Stack Manual. Web server đã chạy, PHP đã kết nối Database.
 >
     * 🧠 *Phải hiểu:* File cấu hình Apache nằm ở đâu? Làm sao để start/stop service?
 * [ ] **Project 0: CV tĩnh trên S3:**
