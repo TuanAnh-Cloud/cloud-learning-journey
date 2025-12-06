@@ -150,7 +150,7 @@
 > * **Điều kiện kích hoạt:** NẾU hôm đó là ngày mùng 1 **HOẶC** hôm đó là ngày Thứ Hai.
 > * **Tại sao "Cấm kỵ"?** Vì nó chạy lung tung (Vừa chạy mùng 1, vừa chạy tất cả các ngày Thứ 2 trong tháng), rất khó kiểm soát.
 >
-* [X] ✅ 🎉 **MANDATORY LAB: Manual LAMP Stack** (Bài Lớn - Chia 2 tối):
+* [X] ✅ 🎉 **~~MANDATORY LAB: Manual LAMP Stack~~** (Bài Lớn - Chia 2 tối):
     * 🛠️ *Cứ làm thôi:* Copy lệnh cài Apache, MySQL, PHP từng dòng một.
 > [!NOTE]
 > Hoàn thành Full LAMP Stack Manual. Web server đã chạy, PHP đã kết nối Database.
