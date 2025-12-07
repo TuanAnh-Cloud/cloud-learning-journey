@@ -1,5 +1,4 @@
 > [!IMPORTANT]
-> **Status Update (6/12/2025):** Hôm nay có một chút việc riêng nên có lẽ mai mình sẽ bắt tay vào cloud tiếp
 >
 > *Trạng thái: Pending.*
 
