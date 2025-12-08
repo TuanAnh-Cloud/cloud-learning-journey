@@ -153,6 +153,19 @@
 > Hoàn thành Full LAMP Stack Manual. Web server đã chạy, PHP đã kết nối Database.
 >
     * 🧠 *Phải hiểu:* File cấu hình Apache nằm ở đâu? Làm sao để start/stop service?
+> [!NOTE]
+>
+> **1. File Cấu hình (Bộ não của Web Server):**
+> * **Nằm ở đâu?** `/etc/apache2/` (Giống như `Control Panel` của Apache).
+> * **File quan trọng nhất:** `/etc/apache2/sites-available/000-default.conf` (Quy định web nằm ở thư mục nào, chạy cổng 80 hay 443).
+>
+> **2. Điều khiển Dịch vụ (Cái công tắc):**
+> * Dùng lệnh: `sudo systemctl [lệnh] apache2`
+> * **status:** Khám sức khỏe (Xem sống hay chết).
+> * **start:** Bật máy.
+> * **stop:** Rút phích điện (Tắt hẳn).
+> * **restart:** Khởi động lại (Dùng sau khi sửa file cấu hình).
+>
 * [X] ✅ 🎉 **~~Project 0: CV tĩnh trên S3:~~**
     * 🛠️ *Cứ làm thôi:* Upload file HTML lên S3, bật Static Hosting.
 > [!NOTE]
