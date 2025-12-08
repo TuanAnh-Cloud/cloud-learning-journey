@@ -1,6 +1,4 @@
-> [!IMPORTANT]
->
-> *Trạng thái: Pending.*
+
 
 
 
@@ -155,9 +153,11 @@
 > Hoàn thành Full LAMP Stack Manual. Web server đã chạy, PHP đã kết nối Database.
 >
     * 🧠 *Phải hiểu:* File cấu hình Apache nằm ở đâu? Làm sao để start/stop service?
-* [ ] **Project 0: CV tĩnh trên S3:**
+* [X] ✅ 🎉 **~~Project 0: CV tĩnh trên S3:~~**
     * 🛠️ *Cứ làm thôi:* Upload file HTML lên S3, bật Static Hosting.
-
+> [!NOTE]
+>
+> * Đã hoàn thành mục tiêu 1.1
 ### 📍 Giai đoạn 1.2: Mạng máy tính & Terraform Nhập môn (11/01 – 28/02)
 
 * [ ] **Subnetting (Chia IP):**
