@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 14/12/2025:** hôm nay vẫn phải làm bài tập trên lớp nên tạm gác lại cloud để ưu tiên GPA muốn quay lại cloud lắm nhưng vướng bài tập trên trường
+> **Update 15/12/2025:** hôm nay vẫn phải làm bài tập trên lớp nên tạm gác lại cloud để ưu tiên GPA muốn quay lại cloud lắm nhưng vướng bài tập trên trường
 >
 > *Trạng thái: Pending.*
 
