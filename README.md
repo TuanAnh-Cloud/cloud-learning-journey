@@ -1,8 +1,8 @@
 > [!IMPORTANT]
 >
-> **Update 16/12/2025:** hôm nay mình đã review lại giai đonạ 1.1 buổi đầu tiên 
+> **Update 17/12/2025:** hôm nay mình phải ôn lại kiến thức tiếng anh nên chưa động vô ubuntu được 
 >
-> *Trạng thái: Pending -> Done.*
+> *Trạng thái: Pending *
 
 
 
