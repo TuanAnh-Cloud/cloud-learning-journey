@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 18/12/2025:** hôm nay mình phải ôn lại kiến thức C++ nên chưa động vô ubuntu được 
+> **Update 20/12/2025:** hôm nay mình đã luyện tập sâu vào lĩnh vực tiếng anh tạm gác cloud > lại vậy
 >
 > *Trạng thái: Pending *
 
