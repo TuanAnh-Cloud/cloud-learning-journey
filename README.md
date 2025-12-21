@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 20/12/2025:** hôm nay mình đã luyện tập sâu vào lĩnh vực tiếng anh tạm gác cloud > lại vậy
+> **Update 21/12/2025:** hôm nay mình tạm nghỉ 1 hôm lấy sức vậy
 >
 > *Trạng thái: Pending *
 
