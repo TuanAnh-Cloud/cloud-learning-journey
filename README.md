@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 21/12/2025:** hôm nay mình tạm nghỉ 1 hôm lấy sức vậy
+> **Update 22/12/2025:** hôm nay thực hành code để chuẩn bị thi trên trường
 >
 > *Trạng thái: Pending *
 
