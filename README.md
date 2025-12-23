@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 19/12/2025:** hôm nay làm bài tập trên trường để lấy GPA cao
+> **Update 23/12/2025:** hôm nay làm tiếp tục bài tập trên trường để lấy GPA cao
 >
 > *Trạng thái: Pending *
 
