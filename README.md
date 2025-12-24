@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 23/12/2025:** hôm nay làm tiếp tục bài tập trên trường để lấy GPA cao
+> **Update 24/12/2025:** hôm nay làm một chút về linux coi như review 
 >
 > *Trạng thái: Pending *
 
