@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 24/12/2025:** hôm nay làm một chút về linux coi như review 
+> **Update 25/12/2025:** hôm nay làm một chút về C++ vì cận kỳ thi rồi
 >
 > *Trạng thái: Pending *
 
