@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 25/12/2025:** hôm nay làm một chút về C++ vì cận kỳ thi rồi
+> **Update 26/12/2025:** hôm nay nghỉ ngơi một hôm vì hôm nay thấy khá là mệt
 >
 > *Trạng thái: Pending *
 
