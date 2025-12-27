@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 26/12/2025:** hôm nay nghỉ ngơi một hôm vì hôm nay thấy khá là mệt
+> **Update 27/12/2025:** hôm nay nghỉ ngơi thêm một hôm vì có một chút việc không có thời gian để học
 >
 > *Trạng thái: Pending *
 
