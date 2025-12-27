@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 27/12/2025:** hôm nay nghỉ ngơi thêm một hôm vì có một chút việc không có thời gian để học
+> **Update 28/12/2025:** hôm nay là chủ nhật thì mình dự định đến sáng mình sẽ ôn lại tổng hợp kiến thức để chốt và chuyển sang kiến thức mới cộng với những bài tập trên lớp để chuẩn bị kỳ thi cuối kỳ. Sắp tới sẽ bận rộn lắm đây vì có nhiều ngày phải ôn để lấy GPA cao
 >
 > *Trạng thái: Pending *
 
