@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 28/12/2025:** hôm nay là chủ nhật thì mình dự định đến sáng mình sẽ ôn lại tổng hợp kiến thức để chốt và chuyển sang kiến thức mới cộng với những bài tập trên lớp để chuẩn bị kỳ thi cuối kỳ. Sắp tới sẽ bận rộn lắm đây vì có nhiều ngày phải ôn để lấy GPA cao
+> **Update 28/12/2025:** hôm nay mình đã ôn lại một chút kiến thức về ubuntu
 >
 > *Trạng thái: Pending *
 
