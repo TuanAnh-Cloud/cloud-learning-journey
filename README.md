@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 28/12/2025:** hôm nay mình đã ôn lại một chút kiến thức về ubuntu
+> **Update 29/12/2025:** hôm nay học cả ngày ở trường về nhà còn ôn luyện bài tập trên trường
 >
 > *Trạng thái: Pending *
 
