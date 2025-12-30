@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 29/12/2025:** hôm nay học cả ngày ở trường về nhà còn ôn luyện bài tập trên trường
+> **Update 30/12/2025:** hôm nay bận việc chưa thực hành được gì
 >
 > *Trạng thái: Pending *
 
