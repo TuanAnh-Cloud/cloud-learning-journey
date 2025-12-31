@@ -1,8 +1,8 @@
 > [!IMPORTANT]
 >
-> **Update 30/12/2025:** hôm nay bận việc chưa thực hành được gì
+> **Update 31/12/2025:** hôm nay bận cuối năm tự thưởng cho bản thân 1 hôm nghỉ không làm gì
 >
-> *Trạng thái: Pending *
+> *Trạng thái: ~~Pending~~ -> New Year's Eve *
 
 
 
