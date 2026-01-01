@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 31/12/2025:** hôm nay bận cuối năm tự thưởng cho bản thân 1 hôm nghỉ không làm gì
+> **Update 1/1/2026:** Đầu năm mới hôm nay chưa hoàn thành được cái gì tại bận một số chuyện
 >
 > *Trạng thái: ~~Pending~~ -> New Year's Eve *
 
