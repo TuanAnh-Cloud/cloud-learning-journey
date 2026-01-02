@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 1/1/2026:** Đầu năm mới hôm nay chưa hoàn thành được cái gì tại bận một số chuyện
+> **Update 2/1/2026:** Hôm nay mình đã luyện tạp C++ chuẩn bị thi
 >
 > *Trạng thái: ~~Pending~~ -> New Year's Eve *
 
