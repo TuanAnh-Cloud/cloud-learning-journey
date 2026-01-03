@@ -1,8 +1,8 @@
 > [!IMPORTANT]
 >
-> **Update 2/1/2026:** Hôm nay mình đã luyện tạp C++ chuẩn bị thi
+> **Update 3/1/2026:** Hôm nay mình đã luyện tập khá nhiều linux rồi
 >
-> *Trạng thái: ~~Pending~~ -> New Year's Eve *
+> *Trạng thái: Pending
 
 
 
