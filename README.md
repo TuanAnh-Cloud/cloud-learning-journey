@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 3/1/2026:** Hôm nay mình đã luyện tập khá nhiều linux rồi
+> **Update 4/1/2026:** Hôm nay ôn luyện tiếp GPA
 >
 > *Trạng thái: Pending
 
