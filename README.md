@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 6/1/2026:** Hôm nay ôn luyện tiếp GPA
+> **Update 7/1/2026:** Hôm nay ôn luyện tiếp GPA
 >
 > *Trạng thái: Pending
 
