@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 8/1/2026:** Hôm nay ôn luyện tiếp GPA chuẩn bị còn 3 ngày nữa là tiếp sang giai đoạn 1.2 học về **Mạng máy tính & Terraform Nhập môn**.
+> **Update 9/1/2026:** Hôm nay ôn luyện tiếp GPA chuẩn bị còn 2 ngày nữa là tiếp sang giai đoạn 1.2 học về **Mạng máy tính & Terraform Nhập môn**.
 >
 > *Trạng thái: Pending
 
