@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 11/1/2026:** Hôm nay ôn luyện tiếp GPA chuẩn bị thi ESL1 2
+> **Update 12/1/2026:** Hôm nay tiếp tục ôn luyện tiếp GPA chuẩn bị thi ESL1 2
 >
 > *Trạng thái: Pending
 
