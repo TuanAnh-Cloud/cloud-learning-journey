@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 13/1/2026:** Hôm nay đã thi xong ESL 1 2 rồi chờ kết quả thôi
+> **Update 14/1/2026:** Hôm nay đã biết kết quả ESL 1 2 rồi đã pass
 >
 > *Trạng thái: Pending
 
