@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 14/1/2026:** Hôm nay đã biết kết quả ESL 1 2 rồi đã pass
+> **Update 15/1/2026:** Hôm nay mình phải ôn tiếp chính trị, photoshop, C++ và wordpress để chuẩn bị sắp tới thi chứ chưa quay lại cloud được
 >
 > *Trạng thái: Pending
 
