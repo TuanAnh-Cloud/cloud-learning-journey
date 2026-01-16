@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 15/1/2026:** Hôm nay mình phải ôn tiếp chính trị, photoshop, C++ và wordpress để chuẩn bị sắp tới thi chứ chưa quay lại cloud được
+> **Update 16/1/2026:** Hôm nay mình phải ôn tiếp các môn để chuẩn bị thi kết thúc môn
 >
 > *Trạng thái: Pending
 
