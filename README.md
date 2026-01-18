@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 17/1/2026:** Hôm nay mình phải ôn tiếp các môn để chuẩn bị thi kết thúc môn
+> **Update 18/1/2026:** Hôm nay mình phải ôn tiếp các môn để chuẩn bị thi kết thúc môn
 >
 > *Trạng thái: Pending
 
