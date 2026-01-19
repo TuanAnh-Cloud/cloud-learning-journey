@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 19/1/2026:** Hôm nay mình phải ôn tiếp các môn để chuẩn bị thi kết thúc môn mặc dù đã sang học kỳ 2 rồi
+> **Update 20/1/2026:** Hôm nay mình phải ôn tiếp các môn để chuẩn bị thi kết thúc môn mặc dù đã sang học kỳ 2 rồi
 >
 > *Trạng thái: Pending
 
