@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 23/1/2026:** Hôm nay mình phải ôn tiếp các môn để chuẩn bị thi kết thúc môn mặc dù đã sang học kỳ 2 rồi
+> **Update 24/1/2026:** Thi xong rồi bây giờ chắc nghỉ xả hơi một chút rồi mai bắt đầu học
 >
 > *Trạng thái: Pending
 
