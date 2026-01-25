@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 24/1/2026:** Thi xong rồi bây giờ chắc nghỉ xả hơi một chút rồi mai bắt đầu học
+> **Update 25/1/2026:** Hôm nay có dấu hiệu của ốm sốt nên chưa làm được gì
 >
 > *Trạng thái: Pending
 
