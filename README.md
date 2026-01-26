@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 25/1/2026:** Hôm nay có dấu hiệu của ốm sốt nên chưa làm được gì
+> **Update 26/1/2026:** Hôm nay thấy đỡ hơn 1 xíu rồi nên bắt tay vào cày tiếng anh sau đó tối hôm nay mới quay lại với cloud
 >
 > *Trạng thái: Pending
 
