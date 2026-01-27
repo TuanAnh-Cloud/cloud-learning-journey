@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 26/1/2026:** Hôm nay thấy đỡ hơn 1 xíu rồi nên bắt tay vào cày tiếng anh sau đó tối hôm nay mới quay lại với cloud
+> **Update 27/1/2026:** Quay lại ôn C++ chuẩn bị thi
 >
 > *Trạng thái: Pending
 
