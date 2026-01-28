@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 27/1/2026:** Quay lại ôn C++ chuẩn bị thi
+> **Update 28/1/2026:** Quay lại ôn C++ chuẩn bị thi
 >
 > *Trạng thái: Pending
 
