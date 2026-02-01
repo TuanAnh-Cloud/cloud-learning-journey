@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 31/1/2026:** Hôm nay nghỉ ngơi tiếp tục nghỉ ngơi 1 chút vì lịch học cả ngày
+> **Update 1/2/2026:** Quay lại ôn C++ tiếp để 2 ngày nữa thi
 >
 > *Trạng thái: Pending
 
