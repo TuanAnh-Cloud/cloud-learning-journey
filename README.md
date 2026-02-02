@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 1/2/2026:** Quay lại ôn C++ tiếp để 2 ngày nữa thi
+> **Update 2/2/2026:** Ôn C++ tiếp để ngày mai thi
 >
 > *Trạng thái: Pending
 
