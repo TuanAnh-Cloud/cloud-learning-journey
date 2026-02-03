@@ -1,7 +1,6 @@
 > [!IMPORTANT]
 >
-> **Update 2/2/2026:** Ôn C++ tiếp để ngày mai thi
->
+> **Update 3/2/2026:** Hôm nay đã thi xong C++ cảm thấy ổn chứ không xuất sắc lắm tại mấy cái điều kiện quên chèn vào
 > *Trạng thái: Pending
 
 
